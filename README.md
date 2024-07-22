@@ -1,6 +1,6 @@
 <body styly="margin: 0; padding: 0; display: flex; justify-content: space-between;">
     <h2>STAP Admin Mobile</h2>
-    <p>School management app made for admins only of the school to control school STAP community, Where the admin can register sessions table of the whole schole, accept teachers, accept board, view statistics of school like the attedance and accounts registered to the school.(Part of STAP project)</p>
+    <p>School management app made for admins only of the school to control school STAP community, Where the admin can register sessions table of the whole school, accept teachers, accept board, view statistics of school like the attedance and accounts registered to the school.(Part of STAP project)</p>
     <h3>Those are some screenshots</h3>
     <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
         <img src="https://github.com/user-attachments/assets/b1f1a226-9ba1-456b-a381-8b000bc9e8cb" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
